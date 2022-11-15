@@ -41,7 +41,7 @@ git clone https://github.com/Artemenyh/Calculator_duble2
 
 # Илюстрация работы приложения
 
-![MyCalculator 2022-10-30 19-23-44](![2022-11-15-22-48-43](https://user-images.githubusercontent.com/62384713/202015403-a721cbdc-bfed-490d-9f95-d1ae5bf4d5e7.gif)
+![2022-11-15-22-48-43](https://user-images.githubusercontent.com/62384713/202015403-a721cbdc-bfed-490d-9f95-d1ae5bf4d5e7.gif)
 
 
 
